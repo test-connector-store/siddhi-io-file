@@ -1,0 +1,19 @@
+{
+    "name": "file",
+    "owner": "WSO2",
+    "category": "Siddhi IO",
+    "documentationUrl": "https://wso2-extensions.github.io/siddhi-io-file/",
+    "description": "The siddhi-io-file extension is an extension to Siddhi which is used to receive/publish event data from/to file. It supports both binary and text formats.",
+    "status": "Active",
+    "labels": [
+        "siddhi",
+        "siddhi-io",
+        "file"
+    ],
+    "releases": [
+        {
+            "tagName": "1.1.1",
+            "products": []
+        }
+    ]
+}
